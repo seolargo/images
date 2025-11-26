@@ -1,0 +1,1 @@
+https://seolargo.github.io/images/json/version.json
